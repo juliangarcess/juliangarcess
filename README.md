@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi. I'm Julián Garcés
+# Hi. I'm Julián Garcés Rodríguez
 
 
 - 🔭 I’m currently working on [TeideTech](https://teidetech.com/)

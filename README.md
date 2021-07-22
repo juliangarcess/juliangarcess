@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi. I'm Julián Garcés Rodríguez
 
-
-- 🔭 I’m currently working on [TeideTech](https://teidetech.com/)
+- 🌱 I’m currently studying electronic industrial and automatic engineering ⚙
 - 📫 You can reach me on [Instagram](https://instagram.com/juliangarcess)
 
 ## ⚡ Technologies
